@@ -1,0 +1,1 @@
+docker run --gpus all --shm-size 8G -v ./data:/object-recognition-api/data -p 5000:5000 -it object-recognition-api

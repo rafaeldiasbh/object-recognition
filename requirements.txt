@@ -1,0 +1,9 @@
+# Python 3.12.2
+Flask==3.0.3
+Flask_Cors==4.0.0
+opencv_python==4.9.0.80
+python-decouple==3.8
+Requests==2.31.0
+waitress==3.0.0
+flask_sock==0.7.0
+flask_apscheduler==1.13.1

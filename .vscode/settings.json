@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "./predictions_models/ultralytics"
+    ],
+    "cSpell.words": [
+        "ultralytics"
+    ]
+}
